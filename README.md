@@ -7,13 +7,13 @@ Steps to Use this Package :
 Git Clone or Download the zip.
 # Setup React Front end
 cd react-python-hack
-npm Install
-npm start
+1. npm Install
+2. npm start
 # Spinup Python server
 in Another terminal
-cd backend
-pip install -r requirements.txt
-python run.py runserver
+1. cd backend
+2. pip install -r requirements.txt
+3. python run.py runserver
 
 # Azure AD setup
 This package is comes with Azure AD integration.
